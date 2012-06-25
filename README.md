@@ -1,6 +1,6 @@
 # About
 
-upstream is a simple command-line utility for streaming music to a Shoutcast/Icecast server.
+upstream is a simple command-line utility for streaming audio to a Shoutcast/Icecast server.
 
 # Usage
 
