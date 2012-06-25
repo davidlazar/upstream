@@ -1,4 +1,4 @@
-/* upstream - stream files to a ShoutCast/Icecast server.
+/* upstream - stream files to a Shoutcast/Icecast server.
  * Author: David Lazar
  * License: MIT
  */
